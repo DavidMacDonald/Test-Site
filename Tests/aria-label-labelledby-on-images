@@ -11,7 +11,7 @@
 <img src="http://www.davidmacde.com/test/images/doubletrouble.jpg" width="200" height="150" alt="some stuff"/>
 <img src="http://www.davidmacde.com/test/http://www.davidmacde.com/test/images/doubletrouble.jpg" width="200" height="150" aria-label="some other stuff"/>
 <img src="http://www.davidmacde.com/test/images/doubletrouble.jpg" width="200" height="150" aria-labelledby="p123"/>
-<img src="http://www.davidmacde.com/test/images/doubletrouble.jpg" width="200" height="150" title="some title stuff">/>
+<img src="http://www.davidmacde.com/test/images/doubletrouble.jpg" width="200" height="150" title="some title stuff">
 
 
 <p id="p123">some labelledby stuff</p>
